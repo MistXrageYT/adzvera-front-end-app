@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    --tw-bg-opacity: 1;
+    background-color: rgb(245 249 255/var(--tw-bg-opacity));
+    font-family: Poppins, sans-serif;
+    
+}
+
+.bg-my-color {
+    background-color: rgb(245 249 255);
+    opacity: 0.97;
+}
+
+
+
+
+
+
+
+

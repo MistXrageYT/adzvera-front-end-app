@@ -1,0 +1,6 @@
+export { default as Header } from '../components/Header.jsx'
+export { default as Footer } from '../components/Footer.jsx'
+export { default as Heroheader } from '../components/Heroheader.jsx'
+export { default as Welcome } from '../components/Welcome.jsx'
+export { default as Works } from '../components/Works.jsx'
+export { default as Team } from '../components/Team.jsx'
